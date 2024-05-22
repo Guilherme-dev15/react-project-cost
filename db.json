@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "id": "0895",
+      "name": "Project New Site ",
+      "budget": "2113002",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 2500,
+      "services": [
+        {
+          "name": "Service 01",
+          "cost": "2500",
+          "description": "Description service add to test",
+          "id": "e426dcfa-6603-4bb6-8732-4ff916675929"
+        }
+      ]
+    },
+    {
+      "id": "318f",
+      "name": "Project Test 3",
+      "budget": "25800",
+      "category": {
+        "id": "4",
+        "name": "Management"
+      },
+      "cost": 15200,
+      "services": [
+        {
+          "name": "New Service",
+          "cost": "100",
+          "description": "Description test to new services warning message",
+          "id": "ac08b287-8414-4cc4-81db-2c35148e8885"
+        },
+        {
+          "name": "New Service",
+          "cost": "100",
+          "description": "Description test to new services warning message",
+          "id": "ac08b287-8414-4cc4-81db-2c35148e8885"
+        },
+        {
+          "name": "New Service 2 ",
+          "cost": "15000",
+          "description": "Description service 2",
+          "id": "b6f5f2ad-995e-4b6a-8475-6a2270797ec9"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Development"
+    },
+    {
+      "id": "2",
+      "name": "Design"
+    },
+    {
+      "id": "3",
+      "name": "QA"
+    },
+    {
+      "id": "4",
+      "name": "Management"
+    },
+    {
+      "id": "6",
+      "name": "Testing"
+    },
+    {
+      "id": "5",
+      "name": "Documentation"
+    }
+  ]
+}
